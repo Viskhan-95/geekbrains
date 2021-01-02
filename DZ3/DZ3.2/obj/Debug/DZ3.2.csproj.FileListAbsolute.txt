@@ -1,0 +1,7 @@
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\bin\Debug\DZ3.2.exe.config
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\bin\Debug\DZ3.2.exe
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\bin\Debug\DZ3.2.pdb
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\obj\Debug\DZ3.2.csprojAssemblyReference.cache
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\obj\Debug\DZ3.2.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\obj\Debug\DZ3.2.exe
+C:\Users\Висхан\source\repos\DZ3\DZ3.2\obj\Debug\DZ3.2.pdb
