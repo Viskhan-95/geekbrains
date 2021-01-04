@@ -1,0 +1,7 @@
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\bin\Debug\DZ2.2.exe.config
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\bin\Debug\DZ2.2.exe
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\bin\Debug\DZ2.2.pdb
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\obj\Debug\DZ2.2.csprojAssemblyReference.cache
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\obj\Debug\DZ2.2.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\obj\Debug\DZ2.2.exe
+C:\Users\Висхан\Desktop\ДЗ GeegBrains\DZ2\DZ2.2\obj\Debug\DZ2.2.pdb
