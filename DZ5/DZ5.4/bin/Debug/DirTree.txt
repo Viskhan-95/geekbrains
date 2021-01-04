@@ -1,0 +1,11 @@
+C:\Intel\gp 
+C:\Intel\Logs 
+C:\Intel\Logs\IntelCPHS.log 
+C:\Intel\Logs\IntelGFXCoin.log 
+C:\Intel 
+C:\Intel\gp 
+C:\Intel\Logs 
+C:\Intel\Logs\IntelCPHS.log 
+C:\Intel\Logs\IntelGFXCoin.log 
+C:\Intel\Logs\IntelCPHS.log 
+C:\Intel\Logs\IntelGFXCoin.log 
