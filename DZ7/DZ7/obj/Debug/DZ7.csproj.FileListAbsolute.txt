@@ -1,0 +1,14 @@
+C:\Users\Висхан\source\repos\DZ7\DZ7\bin\Debug\DZ7.exe.config
+C:\Users\Висхан\source\repos\DZ7\DZ7\bin\Debug\DZ7.exe
+C:\Users\Висхан\source\repos\DZ7\DZ7\bin\Debug\DZ7.pdb
+C:\Users\Висхан\source\repos\DZ7\DZ7\obj\Debug\DZ7.csprojAssemblyReference.cache
+C:\Users\Висхан\source\repos\DZ7\DZ7\obj\Debug\DZ7.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\source\repos\DZ7\DZ7\obj\Debug\DZ7.exe
+C:\Users\Висхан\source\repos\DZ7\DZ7\obj\Debug\DZ7.pdb
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\bin\Debug\DZ7.exe.config
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\bin\Debug\DZ7.exe
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\bin\Debug\DZ7.pdb
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\obj\Debug\DZ7.csprojAssemblyReference.cache
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\obj\Debug\DZ7.csproj.CoreCompileInputs.cache
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\obj\Debug\DZ7.exe
+C:\Users\Висхан\Desktop\Учеба в GeekBrains\ДЗ GeekBrains\DZ7\DZ7\obj\Debug\DZ7.pdb
